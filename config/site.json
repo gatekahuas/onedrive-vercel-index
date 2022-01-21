@@ -9,7 +9,7 @@
   "googleFontLinks": [
     "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap"
   ],
-  "footer": "Powered by <a href=\"https://appricane.com" target=\"_blank\" rel=\"noopener noreferrer\">Appricane</a>. Made with ❤ by Appricane.",
+  "footer": "Made with ❤ by Appricane.",
   "protectedRoutes": [
     "/ Data",
     "/ Data/BB"
