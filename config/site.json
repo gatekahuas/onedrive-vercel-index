@@ -11,8 +11,8 @@
   ],
   "footer": "Made with ❤ by Appricane.",
   "protectedRoutes": [
-    "/ Data",
-    "/ Data/BB"
+    "/Data",
+    "/Data/BB"
   ],
   "email": "mailto:#",
   "links": [
